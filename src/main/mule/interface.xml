@@ -126,4 +126,4 @@ output application/json
     <flow name="post:\movies\(m_id):movie-config">
 		<flow-ref doc:name="Flow Reference" doc:id="69dbf058-b355-4963-b27a-09db106c7baf" name="BookTickets"/>
     </flow>
-</mule>
+ </mule>
